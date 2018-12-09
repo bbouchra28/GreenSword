@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "greensword", "greensword.csproj", "{CA14BC07-ADBC-7A7D-516E-6AB4D5A239F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "greensword.Editor", "greensword.Editor.csproj", "{6D6DB68C-E230-3A62-FED8-1E553E206D2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA14BC07-ADBC-7A7D-516E-6AB4D5A239F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA14BC07-ADBC-7A7D-516E-6AB4D5A239F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA14BC07-ADBC-7A7D-516E-6AB4D5A239F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA14BC07-ADBC-7A7D-516E-6AB4D5A239F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D6DB68C-E230-3A62-FED8-1E553E206D2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D6DB68C-E230-3A62-FED8-1E553E206D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D6DB68C-E230-3A62-FED8-1E553E206D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D6DB68C-E230-3A62-FED8-1E553E206D2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3DEE779-466C-47F0-B86D-149C35F1B279}
+	EndGlobalSection
+EndGlobal
